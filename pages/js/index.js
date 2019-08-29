@@ -54,7 +54,7 @@ function step() {
         setTimeout(function() {
             ks.sendKeys(combinations[Math.floor(Math.random()*combinations.length)]);
             resolve();
-        }, getRandomInt(500, 20000)); 
+        }, getRandomInt(1000, 20000)); 
     });
 }
 
