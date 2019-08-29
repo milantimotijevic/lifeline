@@ -13,7 +13,7 @@
   "build": {
     "asar": false,
     "appId": "com.lifeline.app",
-    "productName": "lifeline App",
+    "productName": "Lifeline",
     "target": "NSIS",
     "nsis": {
       "allowToChangeInstallationDirectory": true,
